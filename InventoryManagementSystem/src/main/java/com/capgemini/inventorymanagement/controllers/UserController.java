@@ -23,7 +23,7 @@ import com.capgemini.inventorymanagement.service.UserService;
 @RestController
 @RequestMapping("/user")
 
-public class usercontroller {
+public class UserController {
 	@Autowired
 	UserService serviceobj;
 	//Add user
