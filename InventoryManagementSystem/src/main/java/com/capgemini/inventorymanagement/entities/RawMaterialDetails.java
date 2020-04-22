@@ -1,10 +1,10 @@
 package com.capgemini.inventorymanagement.entities;
 
-import javax.persistence.Entity;
-import javax.persistence.Table;
+//import javax.persistence.Entity;
+//import javax.persistence.Table;
 
-@Entity
-@Table(name = "RawMaterialStock")
+//@Entity
+//@Table(name = "RawMaterialStock")
 public class RawMaterialDetails {
 
 }
