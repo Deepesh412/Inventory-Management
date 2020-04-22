@@ -17,6 +17,7 @@ public class DistributorDetails {
 	private String email_id;
 	
 	@OneToOne(mappedBy = "distributordetails")
+	
 	private ProductOrderDetails productorderdetails;
 	
 

@@ -18,20 +18,10 @@ import javax.persistence.Table;
 public class ProductOrderDetails {
 	
 	@Id
-	private int order_id;
-	
-	
+	private int order_id;	
 	private String Item_name;
-	
-	
 	private int quantity_unit;
-	
-	
 	private double price_per_unit;
-	
-	
-	
-	
 	private double total_price;
 	
 
